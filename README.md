@@ -30,16 +30,13 @@ A Windows desktop application for organizing and creating TV series folder struc
 ## Building from Source
 
 1. Clone the repository
+
    ```bash
    git clone https://github.com/Ushanmalinda/TVFolderCraft.git
    ```
-
 2. Open `TVFolderCraft.sln` in Visual Studio
-
 3. Restore NuGet packages
-
 4. Build the solution (Ctrl+Shift+B)
-
 5. Run the application (F5)
 
 ## Project Structure
@@ -80,7 +77,7 @@ TVFolderCraft/
 
 ## Author
 
-*Your name here*
+Ushan Malinda
 
 ## Acknowledgments
 
