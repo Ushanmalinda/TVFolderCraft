@@ -31,7 +31,7 @@ A Windows desktop application for organizing and creating TV series folder struc
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/YOUR_USERNAME/TVFolderCraft.git
+   git clone https://github.com/Ushanmalinda/TVFolderCraft.git
    ```
 
 2. Open `TVFolderCraft.sln` in Visual Studio
